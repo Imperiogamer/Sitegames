@@ -1,0 +1,47 @@
+p {
+  color: red;
+}
+h1 {
+  color: red;
+  border: 2px solid #6737c5;
+}
+h2 {
+  color: white;
+  text-align: center;
+  border: 2px solid #6737c5;
+}
+h3 {
+  color: white;
+  border: 2px solid #6737c5;
+}
+h4 {
+  color: white;
+}
+h5 {
+  color: white;
+}
+.um{
+  border: 2px solid #6737c5;
+ font-size:20px;
+  width: 270px;
+}
+.dois {
+ border: 2px solid #6737c5;
+  display:inline-block;
+  font-size:20px;
+}
+.tres{
+  border: 2px solid #6737c5;
+  display:inline-block;
+  font-size:20px;
+}
+html {
+  background-color: #1b1230;
+}
+ .imagem-jogo {
+  width:300px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+ }
+
